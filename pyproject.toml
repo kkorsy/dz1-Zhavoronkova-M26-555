@@ -1,7 +1,7 @@
 [project]
-name = "mephi-1sem-python"
+name = "mephi-1sem-python-dz1"
 version = "0.1.0"
-description = "Add your description here"
+description = "catalog analysis"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
