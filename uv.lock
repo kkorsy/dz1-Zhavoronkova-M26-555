@@ -3,7 +3,7 @@ revision = 5
 requires-python = ">=3.12"
 
 [[package]]
-name = "mephi-1sem-python-dz1"
+name = "dz1-Zhavoronkova-M26-555"
 version = "0.1.0"
 source = { virtual = "." }
 
